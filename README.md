@@ -1,4 +1,4 @@
-Linux on the STM32F769I Discovery board with Buildroot
+Linux on the STM32F769I Discovery board with Buildroot ;)
 ======================================================
 
 The project is a set of patches and configuration files to build a bootloader and a Linux based system image with a minimal root file system for the great [STM32F769I Discovery board](http://www.st.com/en/evaluation-tools/32f769idiscovery.html).
